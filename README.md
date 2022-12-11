@@ -7,5 +7,7 @@ Html, CSS, Bootstrap, JS, Nodejs, express,API, NPM, Nodemon, body-parser etc -
 Hyper Terminal
 --------------
 npm init
+
 npm install body-parser express request
+
 nodemon app.js
